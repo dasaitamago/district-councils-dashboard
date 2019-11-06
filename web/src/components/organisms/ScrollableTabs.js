@@ -18,7 +18,7 @@ const StyledAppBar = styled(AppBar)`
 `
 
 const StyledTab = styled(Tab)`
-  && {
+  &.Mui-selected {
     box-shadow: 1px 2px #ccc;
   }
 `
